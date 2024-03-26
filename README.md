@@ -16,5 +16,5 @@ source .venv/Scripts/activate
 
 ### Instalar pacotes
 ```sh
-pip install requests ipython
+pip install requests ipython flask
 ```
